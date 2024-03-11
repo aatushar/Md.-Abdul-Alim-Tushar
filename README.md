@@ -8,20 +8,20 @@
 
 <img src="https://raw.githubusercontent.com/imranhss/imranhss/main/giphy.gif" alt="coding" align="right" width="300px" height="200">
 
-- 🔭 I’m currently working on [IsDB-BISEW Project](As JEE Trainer)
+- 🔭 I’m currently training on the [IsDB-BISEW Project] (as a JEE Trainee).
 
-- 🌱 I’m currently learning **MIT, JU**
+- 🌱 I’m currently learning Flutter, IsDB-BISEW
 
-- 📫 How to reach me **emranhss@gmail.com**
+- 📫 How to reach me **aatushar05@gmail.com**
 
-- 📄 Know about my experiences [emranhss.com](www.emranhss.com)
+- 📄 Know about my experiences https://www.linkedin.com/in/aatushar/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/emranhss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="emranhss" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/leoemranhss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leoemranhss" height="30" width="40" /></a>
-<a href="https://fb.com/leoemranhss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="leoemranhss" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@emrancodebox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="emrancodebox" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aatushar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leoemranhss" height="30" width="40" /></a>
+<a href="https://facbook.com/md.alim55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="leoemranhss" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@tttm555" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="emrancodebox" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
