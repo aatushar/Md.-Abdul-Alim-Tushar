@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://twitter.com/emranhss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="emranhss" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/aatushar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leoemranhss" height="30" width="40" /></a>
-<a href="https://facbook.com/md.alim55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="leoemranhss" height="30" width="40" /></a>
+<a href="facbook.com/md.alim55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="leoemranhss" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@tttm555" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="emrancodebox" height="30" width="40" /></a>
 </p>
 
