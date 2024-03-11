@@ -8,7 +8,7 @@
 
 <img src="https://raw.githubusercontent.com/imranhss/imranhss/main/giphy.gif" alt="coding" align="right" width="300px" height="200">
 
-- 🔭 I’m currently training on the [IsDB-BISEW Project] (as a JEE Trainee).
+- 🔭 I’m currently training on the [IsDB-BISEW Project] (as a JEE Trainee). 
 
 - 🌱 I’m currently learning Flutter, IsDB-BISEW
 
