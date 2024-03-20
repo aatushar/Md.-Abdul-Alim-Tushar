@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Md. Abdul Alim Tushar</h1>
 <h3 align="center">Full Stack Java Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imranhss&label=Profile%20views&color=0e75b6&style=flat" alt="imranhss" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aatushar&label=Profile%20views&color=0e75b6&style=flat" alt="aatushar" /> </p>
 
 <img src="https://raw.githubusercontent.com/imranhss/imranhss/main/giphy.gif" alt="coding" align="right" width="300px" height="200">
 
