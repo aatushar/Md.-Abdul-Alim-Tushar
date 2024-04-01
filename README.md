@@ -1,7 +1,7 @@
 # Md.-Abdul-Alim-Tushar
 ![logo](https://github.com/aatushar/imranhss/blob/main/github-contribution-grid-snake-dark.svg)
 
-<h1 align="center">Hi 👋,Tushar</h1>
+<h1 align="center">Hi 👋, I'm Tushar</h1>
 <h3 align="center">Full Stack Java Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aatushar&label=Profile%20views&color=0e75b6&style=flat" alt="aatushar" /> </p>
