@@ -8,9 +8,9 @@
 
 <img src="https://raw.githubusercontent.com/aatushar/aatushar/main/giphy.gif" alt="coding" align="right" width="300px" height="200">
 
-- 🔭 I’m currently training on the [IsDB-BISEW Project] (as a JEE Trainee). 
+- 🔭 I am a Java Application Developer at Z IT Solutions. 
 
-- 🌱 I’m currently learning Flutter, IsDB-BISEW
+- 🌱 I’m currently learning Flutter.
 
 - 📫 How to reach me **aatushar05@gmail.com**
 
