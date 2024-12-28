@@ -10,7 +10,7 @@
 
 - 🔭 I am a Java Application Developer at Z IT Solutions. 
 
-- 🌱 I’m currently learning Flutter.
+- 🌱 I’m currently learning Jasper Report.
 
 - 📫 How to reach me **aatushar05@gmail.com**
 
